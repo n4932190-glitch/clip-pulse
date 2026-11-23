@@ -1,0 +1,6 @@
+{
+  "name": "ClipPulse",
+  "description": "Extract viral 30s, 60s, and 90s 9:16 short clips with stylized subtitles from YouTube, Instagram, or device videos and save directly to your device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

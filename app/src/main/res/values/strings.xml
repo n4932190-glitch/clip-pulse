@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ClipPulse</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_saved">Saved</string>
+    <string name="studio_headline">Turn long videos into viral 9:16 shorts</string>
+    <string name="studio_subheadline">Paste a YouTube or Instagram link, or pick a video from your device. AI finds the best hooks and adds styled captions.</string>
+    <string name="link_input_label">YouTube or Instagram video link</string>
+    <string name="link_input_placeholder">https://youtube.com/watch?v=... or instagram.com/reel/...</string>
+    <string name="paste_link">Paste</string>
+    <string name="clear_link">Clear</string>
+    <string name="extract_viral_clips">Find Viral Clips</string>
+    <string name="pick_device_video">Pick Video from Device</string>
+    <string name="clip_duration_label">Clip Length</string>
+    <string name="aspect_ratio_badge">9:16 Vertical</string>
+    <string name="save_to_device">Save to Device</string>
+    <string name="saving_to_device">Rendering 9:16 MP4…</string>
+    <string name="saved_to_device_title">Saved to Device Gallery</string>
+    <string name="share_tiktok">TikTok</string>
+    <string name="share_shorts">YT Shorts</string>
+    <string name="share_reels">Reels</string>
+    <string name="share_more">Share</string>
+    <string name="subtitle_styles_title">Subtitle Style</string>
+    <string name="viral_moments_title">AI Viral Moments</string>
+    <string name="captions_timeline_title">Edit Subtitles</string>
+    <string name="empty_saved_title">No saved clips yet</string>
+    <string name="empty_saved_subtitle">Extract a viral clip in Studio, pick your favorite subtitle style, and tap Save to Device.</string>
+    <string name="empty_editor_title">No active video loaded</string>
+    <string name="empty_editor_subtitle">Start in Studio by pasting a YouTube or Instagram link or picking a local video.</string>
+    <string name="attach_local_video">Attach Video File</string>
+    <string name="retry">Retry</string>
+</resources>
